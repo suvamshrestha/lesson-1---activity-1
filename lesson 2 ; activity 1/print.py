@@ -1,0 +1,5 @@
+print ("suvam ")
+print (9)
+print ("hello,good day\n")
+print ("\n how are you")
+print ("welcome to",end = "$")
